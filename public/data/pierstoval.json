@@ -1,0 +1,81 @@
+{
+  "name": "Pierstoval",
+  "type": "personal",
+  "bio": "🕊️Free Open Source advocate 💻Freelance dev, trainer, coach 🐘🦀🟨📘🦕🐋",
+  "avatar": "http://github.com/pierstoval.png",
+  "links": [
+    {
+      "name": "Github @pierstoval",
+      "url": "https://github.com/pierstoval",
+      "icon": "github"
+    },
+
+    {
+      "name": "Github @Orbitale (my Open Source projects organization)",
+      "url": "https://github.com/Orbitale",
+      "icon": "github"
+    },
+
+    {
+      "name": "Twitch @pierstoval (chaque mercredi à 13h30)",
+      "url": "https://www.twitch.tv/pierstoval",
+      "icon": "twitch"
+    },
+    {
+      "name": "Rediffusions des live-streams",
+      "url": "https://www.youtube.com/playlist?list=PLxbzLT_8MeJhAI2bPWdVqws6xX9PtutbH",
+      "icon": "youtube"
+    },
+    {
+      "name": "Liens de veille technique (utilisé pour les live en général)",
+      "url": "https://pierstoval.notion.site/e099b5d5b7794002b00c8919bebf164c?v=97bb2b4a6f9845f180a1d80c4ea23d4c",
+      "icon": "book"
+    },
+    {
+      "name": "Twitter @pierstoval",
+      "url": "https://twitter.com/pierstoval",
+      "icon": "twitter"
+    },
+    {
+      "name": "Mastodon @pierstoval@mastodon.social",
+      "rel": "me",
+      "url": "https://mastodon.social/@pierstoval",
+      "icon": "mastodon"
+    },
+    {
+      "name": "Blog Tech & Open Source",
+      "url": "https://www.orbitale.io/",
+      "icon": "link"
+    },
+    {
+      "name": "Gitlab @pierstoval",
+      "url": "https://gitlab.com/pierstoval",
+      "icon": "gitlab"
+    },
+
+    {
+      "name": "Instagram @pierstoval",
+      "url": "https://instagram.com/pierstoval",
+      "icon": "instagram"
+    },
+
+    {
+      "name": "Freelance portfolio",
+      "url": "https://alex-rock.tech",
+      "icon": "link"
+    },
+
+    {
+      "name": "LinkedIn (CV)",
+      "url": "https://www.linkedin.com/in/alex-rock/",
+      "icon": "linkedin"
+    },
+
+    {
+      "name": "Donations",
+      "url": "https://www.paypal.com/paypalme/pierstoval",
+      "icon": "paypal"
+    }
+  ],
+  "milestones": []
+}

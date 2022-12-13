@@ -10,14 +10,14 @@ export default function Footer() {
         className="text-gray-400 hover:text-gray-500 flex justify-center space-x-6 md:order-2 gap-2"
       >
         <ImPowerCord className="h-6 w-6" aria-hidden="true" />
-        Powered by EddieHub
+        Powered by LinkFree
       </Link>
       <Link
         href="https://github.com/EddieHubCommunity/LinkFree"
         className="text-gray-400 hover:text-gray-500 flex justify-center space-x-6 md:order-2 gap-2"
       >
         <GiMoneyStack className="h-6 w-6" aria-hidden="true" />
-        Donate with GitHub Sponsors
+        Donate to LinkFree with GitHub Sponsors
       </Link>
     </footer>
   );
